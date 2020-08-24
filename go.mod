@@ -17,7 +17,7 @@ require (
 	github.com/golang/protobuf v1.3.2
 	github.com/google/btree v1.0.0 // indirect
 	github.com/gorilla/handlers v1.4.2
-	github.com/gorilla/mux v1.7.3
+	github.com/gorilla/mux v1.8.0
 	github.com/gorilla/websocket v1.4.0 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware v1.0.0 // indirect
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
