@@ -9,14 +9,14 @@ require (
 	github.com/coreos/go-systemd v0.0.0-20190719114852-fd7a80b32e1f // indirect
 	github.com/coreos/pkg v0.0.0-20180928190104-399ea9e2e55f // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
-	github.com/felixge/httpsnoop v1.0.0
+	github.com/felixge/httpsnoop v1.0.1
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-sql-driver/mysql v1.4.1
 	github.com/gogo/protobuf v1.2.1 // indirect
 	github.com/golang/groupcache v0.0.0-20190702054246-869f871628b6 // indirect
 	github.com/golang/protobuf v1.3.2
 	github.com/google/btree v1.0.0 // indirect
-	github.com/gorilla/handlers v1.4.2
+	github.com/gorilla/handlers v1.5.1
 	github.com/gorilla/mux v1.7.3
 	github.com/gorilla/websocket v1.4.0 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware v1.0.0 // indirect
