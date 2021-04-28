@@ -1,0 +1,21 @@
+version: 2
+updates:
+- package-ecosystem: gomod
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "13:00"
+  pull-request-branch-name:
+    separator: "-"
+  open-pull-requests-limit: 3
+  ignore:
+  - dependency-name: google.golang.org/grpc
+    versions:
+    - 1.35.0
+    - 1.36.0
+    - 1.36.1
+  - dependency-name: github.com/sirupsen/logrus
+    versions:
+    - 1.7.0
+    - 1.7.1
+    - 1.8.0
